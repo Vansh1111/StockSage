@@ -10,7 +10,7 @@ import streamlit as st
 import datetime as dt
 
 # Streamlit Application Title
-st.title('NeuroStock: Stock Price Prediction App')
+st.title('StockSage: Stock Price Prediction App')
 
 # User Input for Stock Ticker
 stock = st.text_input('Enter Stock Ticker (e.g., AAPL, TSLA, etc.)', 'AAPL')
