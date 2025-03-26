@@ -24,11 +24,11 @@ Follow these steps to set up the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/JALAJ-PATEL/NeuroStock.git
+   git clone https://github.com/Vansh1111/StockSage.git
 
 2. Navigate to the project directory:
     ```bash
-    cd NeuroStock
+    cd StockSage
 
 3. Create a virtual environment (optional but recommended):
     ```bash
@@ -57,7 +57,7 @@ To run the Streamlit app locally and view the stock price predictions:
 
 ## Project Structure
 
-    NeuroStock/
+    StockSage/
     ├── .venv/                   # Virtual environment  folder (optional)
     ├── app.py                   # Streamlit application for stock predictions
     ├── model.ipynb              # Jupyter notebook for model training
